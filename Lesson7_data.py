@@ -1,3 +1,5 @@
+names = ['Ann', 'Bob', 'Cal', 'Dee', 'Eve', 'Flo', 'Hal', 'Ike']
+
 for i in range(start, end + 1):
     print(format(i, 'X'), end=' ')  #hex
     print(i, end=' ')               #dec
