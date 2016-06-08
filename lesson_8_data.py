@@ -562,5 +562,3 @@ banana orange cucumber onion
 >>> f(**d)
 banana orange cucumber onion
 >>> 
-
-UCBerk@@@2014
